@@ -59,61 +59,7 @@ const Contact = () => {
                 </ul>
               )}
             </div>
-            <div className="right wow fadeInRight" data-wow-duration="1s">
-              <div className="fields">
-                <form
-                  action="/"
-                  method="post"
-                  className="contact_form"
-                  id="contact_form"
-                  autoComplete="off"
-                >
-                  <div
-                    className="returnmessage"
-                    data-success="Your message has been received, We will contact you soon."
-                  />
-                  <div className="empty_notice">
-                    <span>Please Fill Required Fields</span>
-                  </div>
-                  <div className="input_list">
-                    <ul>
-                      <li>
-                        <input id="name" type="text" placeholder="Your Name" />
-                      </li>
-                      <li>
-                        <input
-                          id="email"
-                          type="text"
-                          placeholder="Your Email"
-                        />
-                      </li>
-                      <li>
-                        <input
-                          id="phone"
-                          type="number"
-                          placeholder="Your Phone"
-                        />
-                      </li>
-                      <li>
-                        <input id="subject" type="text" placeholder="Subject" />
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="message_area">
-                    <textarea
-                      id="message"
-                      placeholder="Write your message here"
-                      defaultValue={""}
-                    />
-                  </div>
-                  <div className="dizme_tm_button">
-                    <a id="send_message" href="#">
-                      <span>Submit Now</span>
-                    </a>
-                  </div>
-                </form>
-              </div>
-            </div>
+           
             <div className="brush_2 wow fadeInRight" data-wow-duration="1s">
               <img src="img/brushes/contact/2.png" alt="image" />
             </div>
@@ -125,7 +71,7 @@ const Contact = () => {
                   height={375}
                   style={{ width: "100%" }}
                   id="gmap_canvas"
-                  src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                  src="https://maps.google.com/maps?q=us%20berkeley&t=&z=13&ie=UTF8&iwloc=&output=embed"
                 />
                 <a href="https://www.embedgooglemap.net/blog/divi-discount-code-elegant-themes-coupon" />
                 <br />

@@ -46,7 +46,7 @@ const Home = ({ dark }) => {
                       data.social &&
                       data.social.map((social, i) => (
                         <li key={i}>
-                          <a href="#">
+                          <a href="https://twitter.com/dawnsongtweets">
                             <i className={social.icon} />
                           </a>
                         </li>

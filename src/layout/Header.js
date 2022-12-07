@@ -19,20 +19,20 @@ const Header = ({ logo }) => {
                 <a href="#about">About</a>
               </li>
               <li>
-                <a href="#portfolio">Portfolio</a>
+                <a href="#portfolio">Education</a>
               </li>
               <li>
-                <a href="#service">Service</a>
+                <a href="#service">Research</a>
               </li>
               <li>
-                <a href="#blog">Blog</a>
+                <a href="#blog">Teaching Schedule</a>
               </li>
               <li>
                 <a href="#contact">Contact</a>
               </li>
               <li className="download_cv">
-                <a href="img/cv/1.jpg" download="">
-                  <span>Download CV</span>
+                <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html">
+                  <span>EECS Profile</span>
                 </a>
               </li>
             </ul>

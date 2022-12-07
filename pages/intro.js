@@ -7,7 +7,7 @@ const Intro = () => {
   return (
     <Fragment>
       <Head>
-        <title>Dizme | Intro</title>
+        <title>Dawn Song | EECS at US Berkeley</title>
       </Head>
       <PreLoader />
       <div className="dizme_tm_all_wrap" data-magic-cursor="show">
