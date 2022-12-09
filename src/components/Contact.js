@@ -10,12 +10,10 @@ const Contact = () => {
       <div className="dizme_tm_contact">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
-            <span>Contact Me</span>
-            <h3>I Want To Hear From You</h3>
-            <p>
-              Please fill out the form on this section to contact with me. Or
-              call between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday
-            </p>
+            <span>Contact My Research Support</span>
+            <h4>Marie Wallmark</h4>
+            <h4> mariew@berkeley.edu</h4>
+           
           </div>
           <div className="contact_inner">
             <div className="left wow fadeInLeft" data-wow-duration="1s">

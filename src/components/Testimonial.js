@@ -27,12 +27,9 @@ const Testimonial = () => {
     <div className="dizme_tm_section">
       <div className="dizme_tm_testimonials">
         <div className="dizme_tm_main_title" data-align="center">
-          <span>Testimonials</span>
-          <h3>What My Clients Say</h3>
-          <p>
-            Most common methods for designing websites that work well on desktop
-            is responsive and adaptive design
-          </p>
+          <span>Student Review</span>
+          <h3>What My Students Say</h3>
+         
         </div>
         <div className="list_wrapper">
           <div className="total">
@@ -80,17 +77,7 @@ const Testimonial = () => {
               <div className="owl-dots"></div>
             </div>
             <div className="left_details">
-              <div
-                className="det_image one wow fadeIn"
-                data-wow-duration="1s"
-                data-img-url="img/testimonials/2.jpg"
-              />
-              <div
-                className="det_image two wow fadeIn"
-                data-wow-duration="1s"
-                data-wow-delay="0.2s"
-                data-img-url="img/testimonials/1.jpg"
-              />
+              
               <div
                 className="det_image three wow fadeIn"
                 data-wow-duration="1s"
@@ -108,23 +95,14 @@ const Testimonial = () => {
               <span className="circle border animPulse" />
             </div>
             <div className="right_details">
-              <div
-                className="det_image one wow fadeIn"
-                data-wow-duration="1s"
-                data-img-url="img/testimonials/5.jpg"
-              />
+              
               <div
                 className="det_image two wow fadeIn"
                 data-wow-duration="1s"
                 data-wow-delay="0.2s"
                 data-img-url="img/testimonials/6.jpg"
               />
-              <div
-                className="det_image three wow fadeIn"
-                data-wow-duration="1s"
-                data-wow-delay="0.4s"
-                data-img-url="img/testimonials/7.jpg"
-              />
+             
               <span className="circle yellow animPulse" />
               <span className="circle purple animPulse" />
               <span className="circle border animPulse" />

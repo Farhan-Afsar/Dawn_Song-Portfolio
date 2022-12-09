@@ -25,9 +25,9 @@
     }
   ],
   "social": [
-    { "name": "facebook", "icon": "icon-facebook-1", "url":"https://www.facebook.com/dawnsong.fb" },
+    { "name": "facebook", "icon": "", "url":"https://www.facebook.com/dawnsong.fb" },
     { "name": "twitter", "icon": "icon-twitter-1", "url":"https://twitter.com/dawnsongtweets" },
-    { "name": "linkedin", "icon": "icon-linkedin-1", "url":"https://www.linkedin.com/in/dawn-song-51586033" },
+    { "name": "linkedin", "icon": "", "url":"https://www.linkedin.com/in/dawn-song-51586033" },
     { "name": "behance", "icon": "", "url": "#" }
   ],
   "contact": {
