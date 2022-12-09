@@ -35,11 +35,10 @@ const Service = ({ dark }) => {
       <div className="dizme_tm_services">
         <div className="container">
           <div className="dizme_tm_main_title" data-align="center">
-            <span>Services</span>
-            <h3>What I Do for Clients</h3>
+           
+           <span>Research Centers</span>
             <p>
-              Most common methods for designing websites that work well on
-              desktop is responsive and adaptive design
+            Research Areas, Centers and Labs
             </p>
           </div>
           <div className="service_list">
@@ -73,12 +72,21 @@ const Service = ({ dark }) => {
                               />
                             )}
                           </span>
+
+
+
                           <div className="title">
                             <h3>{data.title}</h3>
-                            <span className="price">
-                              Starts from <span>${data.price}</span>
-                            </span>
+            
                           </div>
+
+                          <div className="Full">
+                            <h4>{data.Full}</h4>
+
+                          </div>
+
+
+
                           <div className="text">
                             <p>{data.shortDec}</p>
                           </div>
