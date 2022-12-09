@@ -1,35 +1,69 @@
 [
   {
-    "title": "Jim Morisson Says when the musics over turn off the light",
+    "title": "Special topics on Decentralized Finance",
     "img": "img/news/1.jpg",
-    "category": "Web Development",
-    "date": { "date": "23", "month": "Dec" },
+    "category": "Fall 2022",
+    
     "details": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+      "Catalog Description: Topics will vary semester to semester. See the Computer Science Division announcements.",
+      "Units: 1-4",
+      "Prerequisites: Consent of instructor.",
+      "Formats:",
+      "Summer: 2.0-8.0 hours of lecture per week",
+      "Spring: 1.0-4.0 hours of lecture per week",
+      "Fall: 1.0-4.0 hours of lecture per week",
+      "Grading basis: letter",
+      "Final exam status: Written final exam conducted during the scheduled final exam period",
+
+       "Class Schedule (Fall 2022):",
+      "Tu 10:00-11:59, Soda 438 - Vivek Nair."
     ]
   },
   {
-    "title": "How to be appreciated for your hard work as a developer",
+    "title": "Special Topics in Zero Knowledge Proof",
     "img": "img/news/2.jpg",
-    "category": "Branding",
-    "date": { "date": "23", "month": "Dec" },
+    "category": "Spring 2023",
     "details": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
-    ]
+      "Catalog Description: Topics will vary semester to semester. See the Computer Science Division announcements.",
+      "Units: 1-4",
+      "Prerequisites: Consent of instructor.",
+      "Formats:",
+      "Summer: 2.0-8.0 hours of lecture per week",
+      "Spring: 1.0-4.0 hours of lecture per week",
+      "Fall: 1.0-4.0 hours of lecture per week",
+      "Grading basis: letter",
+      "Final exam status: Written final exam conducted during the scheduled final exam period",
+
+       "Class Schedule (Spring 2023):",
+       "Tu 17:00-18:59, Soda 306."
+      ]
   },
   {
-    "title": "How designers and developers can collaborate better",
+    "title": "Entrepreneurship in Web3",
     "img": "img/news/3.jpg",
-    "category": "Social Media",
-    "date": { "date": "23", "month": "Dec" },
+    "category": "Summer 2024",
     "details": [
-      "Dizme is a leading web design agency with an award-winning design team that creates innovative, effective websites that capture your brand, improve your conversion rates, and maximize your revenue to help grow your business and achieve your goals.",
-      "In today’s digital world, your website is the first interaction consumers have with your business. That's why almost 95 percent of a user’s first impression relates to web design. It’s also why web design services can have an immense impact on your company’s bottom line.",
-      "That’s why more companies are not only reevaluating their website’s design but also partnering with Kura, the web design agency that’s driven more than $2.4 billion in revenue for its clients. With over 50 web design awards under our belt, we're confident we can design a custom website that drives sales for your unique business."
+    "Catalog Description: Topics will vary from semester to semester. See Computer Science Division announcements.",  
+    "Units: 1-4",
+
+    "Formats:",
+    "Fall: 2.0-5.0 hours of lecture per week",
+    "Fall: 3.0-9.0 hours of lecture per week",
+    "Spring: 3.0-9.0 hours of lecture per week",
+    "Spring: 2.0-6.0 hours of lecture per week",
+    "Fall: 2.0-6.0 hours of lecture per week",
+    "Fall: 1.0-3.0 hours of lecture per week",
+    "Spring: 1.0-3.0 hours of lecture per week",
+    "Spring: 2.0-5.0 hours of lecture per week",
+    "Spring: 3.0-15.0 hours of lecture per week",
+    "Fall: 3.0-15.0 hours of lecture per week",
+
+    "Grading basis: letter",
+
+    "Final exam status: No final exam",
+
+    "Class Schedule (Fall 2022):",
+    "Tu 16:00-17:59, Tan 180"
     ]
   }
 ]
